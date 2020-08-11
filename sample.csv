@@ -1,0 +1,7 @@
+Index,Name1,123,Text 1,Yes
+0,name2,456,text2,no
+1,name3,NaN,text3,yes
+2,name2,123,text4,yes
+3,name3,789,text5,no
+4,name1,987,text6,no
+5,name1,753,text7,yes
